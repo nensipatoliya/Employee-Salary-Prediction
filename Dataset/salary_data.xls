@@ -1,0 +1,1001 @@
+YearsExperience,EducationLevel,JobTitle,Industry,Location,Salary
+38,Bachelor,Data Scientist,Retail,Seattle,120666
+28,PhD,HR,Retail,Chicago,107662
+14,High School,HR,Tech,San Francisco,95642
+7,Bachelor,Manager,Finance,Seattle,88031
+20,Master,Manager,Finance,Seattle,80234
+38,Master,HR,Education,Chicago,106221
+18,High School,HR,Education,San Francisco,78410
+22,Bachelor,Data Scientist,Education,Chicago,87519
+10,High School,Data Scientist,Finance,San Francisco,56051
+10,High School,Manager,Healthcare,Chicago,64765
+23,Bachelor,Software Engineer,Retail,Seattle,85882
+35,Bachelor,HR,Healthcare,Seattle,105080
+39,PhD,Data Scientist,Healthcare,New York,130823
+23,Bachelor,Manager,Finance,Austin,86439
+2,Master,Data Scientist,Healthcare,Chicago,72964
+21,High School,HR,Tech,New York,71807
+1,High School,HR,Education,Austin,44859
+23,Master,Marketing,Tech,Chicago,104148
+29,Bachelor,Software Engineer,Retail,San Francisco,119444
+37,Master,Marketing,Education,Austin,129519
+1,Master,Manager,Healthcare,Seattle,79634
+20,PhD,Data Scientist,Retail,New York,97323
+32,Master,Manager,Education,Austin,94226
+11,High School,HR,Healthcare,Austin,78189
+21,Master,Marketing,Tech,Seattle,102471
+24,High School,Marketing,Education,Chicago,101954
+26,High School,Marketing,Healthcare,San Francisco,103423
+27,High School,Manager,Tech,Seattle,110891
+15,Bachelor,HR,Retail,San Francisco,76830
+14,PhD,Data Scientist,Retail,Chicago,65891
+2,High School,Data Scientist,Retail,Austin,47992
+36,High School,Manager,Retail,San Francisco,95961
+6,Bachelor,Marketing,Finance,New York,61497
+20,High School,Software Engineer,Education,New York,102551
+8,Master,Manager,Education,Seattle,62848
+38,Master,Manager,Finance,Chicago,110255
+17,PhD,HR,Healthcare,Seattle,70067
+3,High School,Data Scientist,Healthcare,Seattle,83781
+24,Bachelor,Manager,Retail,Seattle,96389
+13,Master,Manager,Tech,New York,76067
+8,Bachelor,Marketing,Healthcare,New York,55358
+25,Bachelor,Marketing,Tech,Seattle,100499
+1,Master,Software Engineer,Education,New York,52488
+19,Bachelor,HR,Tech,Chicago,100021
+27,Master,Software Engineer,Education,Seattle,86198
+6,Bachelor,Marketing,Finance,New York,50273
+7,Master,Data Scientist,Finance,San Francisco,78043
+34,High School,Marketing,Retail,Seattle,122349
+13,PhD,HR,Healthcare,Seattle,70741
+16,Master,Marketing,Retail,Chicago,73497
+35,Master,HR,Education,Austin,125203
+39,PhD,HR,Retail,Austin,130454
+3,Master,HR,Tech,Chicago,52502
+1,Master,HR,Education,Chicago,45747
+5,Bachelor,HR,Finance,Chicago,69198
+3,PhD,Data Scientist,Healthcare,Austin,64238
+28,High School,Software Engineer,Education,Chicago,92703
+17,Master,Manager,Education,New York,83070
+25,PhD,Software Engineer,Tech,Seattle,89892
+33,Bachelor,HR,Healthcare,Seattle,121799
+9,High School,Data Scientist,Finance,San Francisco,69141
+35,PhD,Marketing,Education,San Francisco,106498
+13,High School,Data Scientist,Education,Seattle,65805
+30,High School,HR,Tech,New York,117726
+14,High School,Data Scientist,Retail,Austin,79782
+7,Master,Data Scientist,Finance,Austin,63221
+13,Master,HR,Healthcare,New York,99263
+22,Bachelor,Data Scientist,Education,Austin,85427
+39,Bachelor,Manager,Education,Chicago,119066
+20,PhD,Manager,Finance,Seattle,72230
+15,Bachelor,Data Scientist,Retail,Seattle,69011
+17,High School,Marketing,Education,New York,91677
+23,High School,HR,Finance,Austin,79265
+25,Master,Manager,Tech,San Francisco,97854
+24,High School,Marketing,Retail,San Francisco,99929
+28,PhD,Data Scientist,Healthcare,Austin,110820
+14,High School,Marketing,Education,San Francisco,90523
+0,High School,Software Engineer,Finance,New York,45552
+24,PhD,Manager,Tech,New York,76627
+6,Bachelor,Data Scientist,Healthcare,Austin,60989
+8,Bachelor,HR,Finance,San Francisco,65780
+23,PhD,Data Scientist,Finance,New York,81089
+0,Master,HR,Healthcare,New York,74812
+7,High School,Data Scientist,Tech,Chicago,78628
+23,PhD,Marketing,Tech,Chicago,113152
+10,High School,Marketing,Retail,New York,82790
+16,Master,Marketing,Education,Austin,64249
+7,High School,Software Engineer,Healthcare,Seattle,69809
+34,PhD,HR,Healthcare,Seattle,116901
+34,High School,Marketing,Healthcare,New York,114576
+32,Bachelor,Software Engineer,Tech,New York,119508
+4,Master,HR,Education,New York,55175
+38,Master,Data Scientist,Retail,Austin,122464
+27,Master,Software Engineer,Finance,Chicago,96760
+6,PhD,Manager,Finance,New York,84440
+8,Master,Software Engineer,Healthcare,New York,81546
+7,Bachelor,Software Engineer,Education,San Francisco,52487
+11,PhD,HR,Tech,Austin,81605
+33,Bachelor,Data Scientist,Education,New York,102448
+32,High School,Manager,Education,San Francisco,101026
+22,High School,Marketing,Tech,Seattle,75773
+23,High School,Marketing,Healthcare,New York,84378
+36,High School,Software Engineer,Education,New York,104377
+34,Bachelor,HR,Finance,San Francisco,98347
+39,PhD,HR,Tech,Austin,132276
+21,PhD,Marketing,Retail,New York,75283
+26,Master,Manager,Healthcare,Seattle,83298
+34,Bachelor,Data Scientist,Tech,New York,95668
+0,High School,Manager,Retail,Seattle,60671
+34,Bachelor,Data Scientist,Retail,Chicago,125820
+36,Master,Marketing,Education,Chicago,128484
+13,Master,Data Scientist,Education,Seattle,92578
+2,Bachelor,HR,Education,Austin,63922
+0,Bachelor,Software Engineer,Tech,New York,74028
+4,Bachelor,Software Engineer,Tech,New York,66316
+25,PhD,Marketing,Healthcare,Chicago,88960
+13,High School,HR,Education,Seattle,76468
+38,Bachelor,Manager,Retail,New York,127266
+26,Bachelor,HR,Finance,New York,109209
+8,Bachelor,Software Engineer,Healthcare,Austin,76000
+14,Master,Software Engineer,Tech,San Francisco,75011
+14,Master,HR,Healthcare,Chicago,63866
+25,PhD,HR,Healthcare,Chicago,83398
+12,High School,Software Engineer,Healthcare,San Francisco,76395
+31,PhD,Manager,Healthcare,New York,125519
+38,High School,Marketing,Finance,Austin,134707
+31,Master,Marketing,Education,Austin,90506
+3,Master,HR,Retail,Chicago,78893
+29,Master,Marketing,Healthcare,Austin,94456
+36,PhD,Software Engineer,Healthcare,San Francisco,124663
+22,Bachelor,Software Engineer,Healthcare,New York,79078
+38,Bachelor,HR,Education,San Francisco,126631
+14,Master,HR,Tech,Seattle,91140
+28,Bachelor,HR,Tech,Chicago,85961
+35,Bachelor,Manager,Finance,Austin,121777
+12,PhD,Marketing,Tech,Seattle,89417
+31,High School,HR,Healthcare,Austin,108984
+6,Master,Data Scientist,Healthcare,New York,67103
+21,Master,Data Scientist,Healthcare,New York,100845
+27,PhD,Software Engineer,Finance,New York,119954
+1,PhD,Marketing,Healthcare,Austin,43087
+5,Bachelor,HR,Tech,Seattle,68531
+27,Master,Data Scientist,Education,New York,106712
+27,High School,Marketing,Education,Seattle,90850
+19,PhD,Software Engineer,Retail,Austin,87316
+29,High School,Manager,Tech,Seattle,103788
+10,High School,Marketing,Healthcare,Austin,84432
+27,Master,Marketing,Education,Austin,87337
+24,Master,Manager,Tech,Chicago,110217
+38,PhD,Marketing,Education,Austin,117884
+32,Master,Software Engineer,Healthcare,Austin,93454
+0,Master,Software Engineer,Education,San Francisco,49424
+26,Master,Manager,Retail,New York,115885
+12,High School,HR,Retail,Chicago,76412
+2,PhD,Data Scientist,Education,Chicago,82613
+38,Bachelor,HR,Tech,Chicago,117142
+5,High School,Marketing,Tech,San Francisco,84892
+7,Master,Data Scientist,Tech,Austin,59348
+26,High School,Manager,Education,New York,92136
+8,Master,Manager,Tech,Seattle,52589
+36,Master,Data Scientist,Healthcare,Austin,114908
+32,High School,Software Engineer,Retail,San Francisco,94509
+23,PhD,Data Scientist,Healthcare,Austin,84468
+14,Master,Marketing,Tech,Austin,63462
+31,PhD,Software Engineer,Healthcare,San Francisco,95960
+31,Bachelor,Manager,Tech,Chicago,120283
+23,Master,Data Scientist,Education,Chicago,83775
+11,PhD,HR,Healthcare,New York,85177
+38,PhD,HR,Education,New York,110269
+1,Bachelor,Marketing,Education,Chicago,41906
+2,PhD,HR,Finance,Seattle,50384
+36,PhD,Data Scientist,Tech,Austin,116553
+16,Bachelor,Data Scientist,Retail,Seattle,88366
+1,Master,HR,Tech,Austin,58869
+1,PhD,Data Scientist,Retail,Chicago,53295
+27,PhD,Marketing,Tech,New York,84985
+22,PhD,Software Engineer,Education,New York,75618
+36,High School,Marketing,Healthcare,Seattle,124143
+31,Bachelor,Marketing,Healthcare,New York,115925
+32,High School,Data Scientist,Finance,Chicago,110673
+0,Bachelor,Software Engineer,Retail,Seattle,49603
+18,Master,Data Scientist,Retail,Austin,106696
+1,Master,Manager,Retail,New York,46868
+25,PhD,Data Scientist,Education,San Francisco,82121
+31,Bachelor,Data Scientist,Retail,New York,101219
+5,Master,Data Scientist,Healthcare,Austin,76727
+31,Bachelor,Software Engineer,Education,Seattle,94066
+3,Master,Data Scientist,Tech,Austin,56806
+10,High School,Software Engineer,Retail,San Francisco,79042
+16,Master,HR,Retail,Chicago,79086
+37,High School,Manager,Tech,New York,112887
+23,Master,Software Engineer,Retail,Seattle,101542
+4,PhD,HR,Tech,Chicago,69888
+33,High School,Software Engineer,Education,Austin,116014
+5,Master,Software Engineer,Healthcare,Seattle,65823
+21,PhD,Manager,Tech,Chicago,89519
+10,High School,Marketing,Finance,Seattle,64890
+15,PhD,Marketing,Tech,San Francisco,72783
+32,Bachelor,Software Engineer,Retail,San Francisco,106279
+8,Bachelor,Data Scientist,Education,New York,74908
+5,High School,HR,Education,New York,85452
+15,Master,Data Scientist,Tech,San Francisco,97670
+28,High School,Data Scientist,Healthcare,Seattle,119663
+2,PhD,Software Engineer,Finance,San Francisco,52343
+19,Master,Software Engineer,Education,New York,79137
+35,Bachelor,Software Engineer,Retail,San Francisco,127224
+18,Master,Software Engineer,Retail,San Francisco,106791
+25,Bachelor,Marketing,Healthcare,Seattle,106634
+2,Master,Software Engineer,Education,Chicago,46907
+18,Master,Marketing,Tech,New York,100575
+19,Master,Marketing,Retail,Seattle,73327
+31,PhD,Software Engineer,Healthcare,San Francisco,117107
+6,PhD,Manager,Education,San Francisco,62699
+32,High School,HR,Education,Chicago,125292
+39,High School,Data Scientist,Education,New York,124383
+38,Bachelor,Marketing,Education,New York,102313
+17,PhD,HR,Education,Austin,79098
+39,Bachelor,Manager,Retail,New York,127307
+0,High School,Data Scientist,Healthcare,Chicago,44887
+10,Bachelor,Data Scientist,Education,Austin,58854
+27,High School,Marketing,Finance,Austin,95036
+24,PhD,Software Engineer,Finance,San Francisco,79558
+22,Master,Manager,Healthcare,San Francisco,82772
+30,PhD,Marketing,Tech,New York,121343
+29,Bachelor,Manager,Tech,Austin,118686
+34,Bachelor,Software Engineer,Tech,San Francisco,127966
+6,PhD,Software Engineer,Finance,Chicago,82769
+15,PhD,Marketing,Tech,San Francisco,102387
+25,High School,Software Engineer,Retail,San Francisco,96729
+1,Bachelor,HR,Education,Austin,51173
+0,Bachelor,Data Scientist,Finance,Austin,67877
+11,PhD,Marketing,Healthcare,Seattle,88101
+4,Master,Manager,Healthcare,Chicago,84084
+36,Bachelor,HR,Education,Austin,110244
+31,Master,Marketing,Finance,New York,113856
+8,PhD,Software Engineer,Tech,Chicago,68806
+34,PhD,Software Engineer,Tech,Chicago,114099
+18,High School,Software Engineer,Retail,Austin,104034
+15,Bachelor,Software Engineer,Retail,Chicago,81594
+2,Master,Manager,Tech,Austin,53589
+19,High School,HR,Healthcare,San Francisco,70157
+23,Bachelor,Data Scientist,Healthcare,Seattle,107264
+32,High School,Manager,Retail,San Francisco,127531
+23,PhD,Manager,Education,Austin,77664
+10,Bachelor,Data Scientist,Tech,Austin,82542
+7,High School,Data Scientist,Retail,San Francisco,68937
+35,High School,Software Engineer,Retail,New York,131005
+37,Master,Manager,Tech,New York,115101
+39,High School,Marketing,Tech,New York,126930
+19,Bachelor,Data Scientist,Healthcare,Austin,74509
+34,Bachelor,Data Scientist,Education,Chicago,95552
+24,Master,HR,Education,Austin,85417
+34,Bachelor,Marketing,Tech,Chicago,93671
+24,PhD,Marketing,Finance,San Francisco,82519
+28,Bachelor,Data Scientist,Retail,Seattle,118730
+17,Bachelor,Software Engineer,Retail,Chicago,78234
+17,High School,HR,Tech,New York,69222
+1,High School,Marketing,Finance,Austin,46406
+34,Bachelor,Data Scientist,Healthcare,San Francisco,121096
+15,Master,Marketing,Tech,New York,76199
+35,High School,HR,Tech,San Francisco,113938
+32,Master,HR,Retail,Seattle,121576
+3,Bachelor,Manager,Tech,Austin,76747
+32,Bachelor,Data Scientist,Tech,Austin,115938
+13,PhD,HR,Tech,Seattle,77100
+20,High School,Manager,Retail,Austin,90435
+19,Bachelor,Manager,Healthcare,Chicago,87081
+7,PhD,Marketing,Healthcare,San Francisco,64691
+6,High School,Marketing,Tech,New York,68190
+2,Bachelor,Manager,Retail,Seattle,70386
+16,Bachelor,Marketing,Healthcare,Chicago,95721
+32,High School,HR,Healthcare,New York,101704
+11,High School,Software Engineer,Healthcare,New York,58623
+21,High School,HR,Retail,Seattle,96674
+21,Bachelor,Manager,Retail,Chicago,86086
+29,Bachelor,Manager,Tech,New York,115476
+37,PhD,HR,Education,New York,120916
+37,Master,Marketing,Healthcare,Chicago,97314
+7,High School,Marketing,Education,Austin,63501
+26,Bachelor,Manager,Retail,New York,95508
+26,Bachelor,Data Scientist,Retail,San Francisco,98630
+33,High School,Marketing,Retail,Chicago,102880
+20,Master,HR,Education,New York,105699
+29,High School,Marketing,Retail,Seattle,95817
+32,Master,HR,Tech,San Francisco,123739
+27,Bachelor,Manager,Retail,New York,115285
+32,Master,Marketing,Finance,San Francisco,119980
+4,PhD,HR,Education,San Francisco,69799
+18,Bachelor,Manager,Finance,Austin,102183
+3,PhD,Data Scientist,Retail,San Francisco,73666
+34,High School,HR,Tech,Austin,110480
+16,High School,Data Scientist,Healthcare,Chicago,65609
+27,High School,Data Scientist,Retail,Austin,81217
+29,Master,Software Engineer,Tech,Seattle,103445
+28,Bachelor,Marketing,Education,New York,107592
+5,High School,HR,Finance,Chicago,75641
+34,High School,Data Scientist,Finance,Chicago,121009
+36,Bachelor,Software Engineer,Finance,Seattle,100782
+23,High School,Manager,Education,Austin,101036
+28,PhD,HR,Tech,New York,115816
+30,Bachelor,Data Scientist,Education,Austin,110933
+34,Bachelor,Marketing,Finance,San Francisco,102618
+32,Bachelor,Software Engineer,Retail,Austin,96307
+20,PhD,Data Scientist,Healthcare,Chicago,96671
+31,Bachelor,Marketing,Education,New York,96838
+22,PhD,Data Scientist,Education,Austin,111346
+32,Bachelor,HR,Tech,New York,94548
+2,Master,HR,Tech,New York,64164
+17,High School,HR,Education,San Francisco,93026
+24,Master,Software Engineer,Finance,San Francisco,107222
+30,High School,HR,Healthcare,Chicago,105176
+2,PhD,Marketing,Tech,Seattle,45941
+39,Master,Data Scientist,Finance,New York,104195
+23,Bachelor,Manager,Retail,Seattle,113669
+31,High School,Marketing,Tech,Chicago,112053
+21,High School,Marketing,Finance,New York,110465
+22,Master,HR,Finance,New York,111218
+1,PhD,Software Engineer,Healthcare,Seattle,66859
+26,Master,Data Scientist,Healthcare,Austin,103816
+1,PhD,Software Engineer,Retail,San Francisco,49878
+25,PhD,Data Scientist,Finance,Austin,79381
+16,High School,Data Scientist,Finance,Seattle,103567
+39,Master,Software Engineer,Healthcare,San Francisco,112175
+32,Master,Marketing,Tech,Austin,92586
+8,PhD,Data Scientist,Tech,San Francisco,77006
+38,Master,Software Engineer,Education,New York,119831
+28,Bachelor,Data Scientist,Healthcare,Austin,117113
+25,Bachelor,Manager,Education,San Francisco,93959
+34,Master,Marketing,Healthcare,San Francisco,123443
+24,Master,HR,Retail,San Francisco,106595
+23,PhD,Data Scientist,Finance,Austin,80377
+12,Bachelor,Manager,Retail,Chicago,97553
+6,Bachelor,HR,Healthcare,Austin,53922
+35,High School,HR,Finance,Seattle,97186
+19,PhD,Data Scientist,Tech,Austin,101266
+0,High School,Software Engineer,Tech,San Francisco,54407
+7,Bachelor,Data Scientist,Education,New York,82506
+15,PhD,Manager,Healthcare,Austin,93922
+13,Master,HR,Healthcare,Austin,71705
+11,PhD,Data Scientist,Tech,San Francisco,77554
+22,Master,Software Engineer,Retail,New York,96527
+14,Master,Data Scientist,Finance,New York,79443
+27,PhD,Marketing,Retail,Seattle,97024
+33,Master,Software Engineer,Retail,Austin,117702
+1,High School,Manager,Tech,New York,41516
+31,Bachelor,HR,Tech,New York,103348
+22,Master,Data Scientist,Tech,Chicago,93855
+21,High School,Software Engineer,Education,Chicago,89711
+24,Master,Marketing,Retail,New York,101095
+21,Bachelor,Software Engineer,Healthcare,Seattle,110224
+21,High School,Marketing,Finance,New York,109083
+5,Bachelor,Manager,Education,San Francisco,50343
+14,Bachelor,HR,Healthcare,Austin,90301
+36,High School,Manager,Retail,Seattle,120460
+32,High School,Data Scientist,Tech,San Francisco,119918
+7,High School,Software Engineer,Retail,Seattle,79247
+4,PhD,Marketing,Finance,San Francisco,61972
+38,High School,Marketing,Education,Austin,125310
+3,High School,Software Engineer,Education,Austin,67427
+5,High School,Software Engineer,Finance,Chicago,48594
+31,High School,Data Scientist,Healthcare,San Francisco,125392
+29,Master,Manager,Healthcare,Chicago,117672
+34,PhD,Marketing,Education,San Francisco,114324
+39,Bachelor,Data Scientist,Education,Chicago,119174
+15,High School,Manager,Tech,Austin,66482
+12,Master,Data Scientist,Healthcare,Seattle,73790
+29,Master,Marketing,Finance,Chicago,95705
+18,Master,Software Engineer,Healthcare,San Francisco,91338
+16,Bachelor,Software Engineer,Tech,San Francisco,76748
+18,High School,Manager,Education,Austin,88097
+27,PhD,HR,Education,San Francisco,83592
+25,PhD,Manager,Tech,New York,100192
+36,Master,HR,Finance,Seattle,117862
+25,Bachelor,Data Scientist,Education,Chicago,102360
+22,Bachelor,Data Scientist,Retail,Seattle,86971
+8,Bachelor,Marketing,Education,Austin,66616
+11,PhD,HR,Retail,Chicago,61433
+0,Master,Marketing,Tech,Chicago,44926
+0,High School,Software Engineer,Tech,New York,65763
+33,PhD,HR,Education,Austin,93469
+31,Master,Manager,Healthcare,San Francisco,122233
+24,Master,Software Engineer,Retail,New York,80319
+39,High School,Software Engineer,Finance,New York,138376
+0,High School,Manager,Education,Seattle,60323
+15,High School,Software Engineer,Finance,Seattle,78928
+38,Bachelor,HR,Education,Seattle,131578
+4,High School,Marketing,Healthcare,New York,66950
+21,Master,Software Engineer,Healthcare,San Francisco,89793
+28,High School,HR,Healthcare,Chicago,88364
+2,Master,Data Scientist,Healthcare,Seattle,78349
+11,PhD,HR,Tech,San Francisco,57191
+25,Bachelor,Marketing,Tech,Austin,107562
+15,PhD,HR,Retail,Seattle,63431
+36,PhD,Manager,Finance,Chicago,125730
+21,Master,Marketing,Education,Austin,85726
+28,PhD,Data Scientist,Education,Austin,95861
+13,Master,Manager,Tech,Chicago,90801
+27,High School,HR,Education,Seattle,103266
+4,High School,Marketing,Tech,New York,82174
+29,Master,Data Scientist,Retail,Chicago,101195
+4,High School,Manager,Finance,Chicago,49121
+11,Bachelor,Data Scientist,Retail,Chicago,74757
+15,PhD,HR,Healthcare,Austin,90664
+25,Bachelor,Data Scientist,Healthcare,San Francisco,102991
+25,PhD,Software Engineer,Healthcare,New York,100665
+20,High School,Manager,Retail,Seattle,73748
+38,Bachelor,Data Scientist,Education,Seattle,130045
+35,High School,HR,Finance,San Francisco,119053
+32,PhD,HR,Healthcare,Chicago,118497
+29,Master,Data Scientist,Healthcare,New York,114808
+36,Master,HR,Healthcare,Seattle,133560
+22,Bachelor,Marketing,Finance,Seattle,83374
+9,High School,Marketing,Healthcare,Chicago,58175
+4,High School,Marketing,Finance,San Francisco,47170
+35,Bachelor,Software Engineer,Healthcare,New York,104950
+33,Master,Data Scientist,Retail,San Francisco,100180
+30,PhD,Software Engineer,Retail,San Francisco,95068
+9,Bachelor,HR,Finance,New York,88730
+18,PhD,Software Engineer,Retail,New York,93206
+31,Master,HR,Finance,Seattle,86787
+0,High School,HR,Retail,Seattle,62337
+4,Master,Manager,Retail,New York,66666
+3,Bachelor,Marketing,Finance,Austin,45661
+15,High School,HR,Education,Seattle,97631
+23,Bachelor,Manager,Retail,Austin,99035
+15,Bachelor,Marketing,Healthcare,New York,95028
+1,Master,HR,Education,Seattle,80251
+27,Bachelor,HR,Finance,San Francisco,97027
+31,Master,Software Engineer,Education,New York,110353
+26,High School,Software Engineer,Tech,Chicago,93758
+19,Master,Marketing,Tech,Austin,68744
+23,High School,HR,Retail,New York,77678
+11,Master,Data Scientist,Retail,New York,88331
+34,PhD,Software Engineer,Healthcare,Seattle,93176
+32,PhD,Marketing,Education,Seattle,125770
+32,Bachelor,HR,Tech,Seattle,121654
+36,Master,HR,Retail,Chicago,120627
+11,Master,Data Scientist,Education,Seattle,81381
+2,High School,Marketing,Retail,New York,78422
+0,Bachelor,HR,Retail,Seattle,51984
+32,Master,Software Engineer,Tech,San Francisco,111776
+39,Bachelor,Data Scientist,Tech,Seattle,116255
+9,PhD,Marketing,Retail,Chicago,60635
+28,Master,Data Scientist,Finance,San Francisco,82320
+12,Master,Software Engineer,Retail,New York,95422
+11,Bachelor,Marketing,Retail,New York,85135
+30,Master,Data Scientist,Healthcare,Austin,106684
+1,Bachelor,Manager,Healthcare,San Francisco,64738
+34,Master,Software Engineer,Healthcare,Austin,112889
+22,High School,Software Engineer,Finance,San Francisco,103313
+16,Bachelor,Software Engineer,Finance,San Francisco,96535
+25,Master,Manager,Retail,Chicago,88270
+7,PhD,Manager,Healthcare,Austin,89821
+28,Master,HR,Finance,Chicago,102426
+25,PhD,Data Scientist,Tech,San Francisco,84998
+9,PhD,HR,Retail,New York,92904
+25,High School,Data Scientist,Education,San Francisco,93895
+33,Bachelor,Manager,Retail,Chicago,92037
+6,Master,Manager,Education,Austin,68226
+3,High School,HR,Healthcare,Austin,59716
+10,Master,Marketing,Education,Chicago,73613
+28,PhD,HR,Healthcare,Austin,85009
+35,Bachelor,Data Scientist,Tech,Seattle,116868
+24,Master,HR,Education,New York,105327
+20,Master,Software Engineer,Retail,New York,84209
+35,PhD,Data Scientist,Healthcare,New York,107529
+9,Master,Data Scientist,Retail,Austin,55577
+36,Master,Marketing,Finance,Austin,107907
+8,PhD,Manager,Healthcare,San Francisco,88635
+23,High School,Data Scientist,Education,San Francisco,79373
+34,PhD,Manager,Healthcare,New York,99635
+34,High School,HR,Retail,Seattle,124065
+35,Bachelor,Software Engineer,Tech,San Francisco,126283
+17,High School,Marketing,Healthcare,San Francisco,99652
+38,High School,Manager,Education,Austin,126092
+31,Bachelor,Data Scientist,Finance,Seattle,104153
+23,High School,Manager,Tech,New York,106963
+22,PhD,Data Scientist,Finance,San Francisco,107028
+31,High School,Manager,Healthcare,Seattle,107447
+36,Bachelor,Data Scientist,Retail,Seattle,123978
+11,PhD,HR,Retail,New York,78556
+12,Bachelor,Data Scientist,Education,Seattle,87007
+22,Bachelor,Data Scientist,Retail,Seattle,78543
+24,Master,Software Engineer,Tech,Seattle,97067
+34,Master,Data Scientist,Retail,San Francisco,116097
+29,Bachelor,Software Engineer,Education,New York,87309
+16,Bachelor,Marketing,Healthcare,Seattle,86191
+19,Bachelor,Software Engineer,Healthcare,Seattle,89767
+24,Master,HR,Retail,San Francisco,83206
+21,Master,Software Engineer,Finance,New York,92557
+12,High School,Marketing,Healthcare,Austin,86992
+18,High School,HR,Retail,San Francisco,82995
+35,Bachelor,Manager,Education,New York,105710
+11,PhD,Manager,Retail,Seattle,74293
+18,PhD,Software Engineer,Healthcare,New York,93270
+11,Master,Software Engineer,Education,New York,61697
+8,Master,Marketing,Retail,New York,59452
+6,Master,Marketing,Tech,Austin,63859
+27,Bachelor,Data Scientist,Education,New York,107736
+13,PhD,Marketing,Tech,Austin,91399
+30,High School,Data Scientist,Finance,Seattle,117083
+18,Bachelor,HR,Education,Austin,69172
+15,High School,Software Engineer,Tech,Seattle,79163
+4,High School,HR,Healthcare,Seattle,73540
+34,Bachelor,Marketing,Healthcare,Austin,110053
+11,High School,HR,Finance,San Francisco,67585
+24,PhD,HR,Education,Chicago,106564
+20,High School,HR,Education,New York,94209
+35,PhD,Marketing,Education,Chicago,96481
+22,PhD,HR,Finance,New York,94153
+15,PhD,Data Scientist,Education,New York,67747
+38,Master,Marketing,Healthcare,Seattle,107553
+38,High School,HR,Tech,New York,117811
+13,Bachelor,Marketing,Healthcare,New York,89345
+30,Bachelor,Manager,Healthcare,Austin,91135
+4,High School,Data Scientist,Tech,Chicago,51573
+34,Master,HR,Healthcare,Austin,104731
+22,Master,Manager,Finance,New York,80189
+28,PhD,Manager,Tech,Seattle,96541
+10,High School,Marketing,Healthcare,Austin,66087
+17,High School,Manager,Retail,Austin,68276
+11,Bachelor,Data Scientist,Healthcare,San Francisco,84064
+8,High School,Data Scientist,Finance,New York,80835
+9,Master,Software Engineer,Education,Seattle,61197
+16,High School,Data Scientist,Healthcare,Austin,78629
+37,Bachelor,Manager,Education,Austin,103886
+6,PhD,Data Scientist,Retail,Seattle,66046
+12,Bachelor,Marketing,Healthcare,New York,66044
+39,Bachelor,Software Engineer,Tech,San Francisco,108115
+8,PhD,Manager,Education,Austin,57060
+26,Bachelor,Software Engineer,Retail,San Francisco,89900
+1,Bachelor,Manager,Tech,Chicago,47081
+4,High School,Marketing,Tech,New York,80782
+28,High School,Software Engineer,Tech,Chicago,102173
+36,PhD,HR,Tech,Chicago,106997
+37,High School,Manager,Healthcare,Chicago,102648
+18,High School,HR,Healthcare,New York,85748
+7,Bachelor,Software Engineer,Healthcare,New York,64522
+0,Master,HR,Retail,Seattle,60013
+21,High School,HR,Retail,San Francisco,110187
+16,Master,Software Engineer,Retail,San Francisco,79886
+6,High School,Marketing,Finance,Seattle,74256
+24,High School,HR,Retail,Seattle,106005
+3,PhD,HR,Healthcare,Chicago,51138
+35,PhD,Marketing,Healthcare,Seattle,129919
+5,PhD,HR,Finance,Austin,80877
+30,Master,HR,Finance,San Francisco,121634
+18,Bachelor,HR,Retail,Seattle,83755
+38,High School,Data Scientist,Education,Austin,120382
+26,High School,Marketing,Finance,Austin,101394
+9,High School,HR,Tech,Austin,55753
+25,Master,Marketing,Healthcare,Austin,115210
+18,PhD,Manager,Tech,Chicago,67864
+38,Bachelor,Manager,Healthcare,Austin,131036
+2,Master,HR,Healthcare,Chicago,56666
+12,PhD,Marketing,Finance,Chicago,78955
+27,Master,Marketing,Finance,Austin,118497
+19,Bachelor,Marketing,Tech,San Francisco,84809
+27,PhD,Data Scientist,Healthcare,Austin,84554
+7,Master,Manager,Tech,Austin,51435
+38,Bachelor,Marketing,Education,Austin,119778
+0,High School,Marketing,Tech,San Francisco,56709
+2,Bachelor,Data Scientist,Retail,New York,52726
+12,High School,Data Scientist,Tech,New York,78245
+27,Master,Marketing,Retail,Chicago,115253
+24,PhD,Software Engineer,Retail,Chicago,90252
+32,PhD,Marketing,Retail,San Francisco,109316
+37,Master,Marketing,Education,Seattle,132871
+5,PhD,Data Scientist,Tech,New York,66662
+31,PhD,Data Scientist,Tech,Chicago,102460
+20,High School,Marketing,Education,New York,100791
+15,Master,Marketing,Healthcare,San Francisco,87716
+20,Bachelor,Marketing,Finance,San Francisco,102467
+10,High School,Data Scientist,Tech,Seattle,62754
+36,Master,Marketing,Finance,Seattle,98078
+35,High School,Marketing,Education,San Francisco,105353
+34,Bachelor,HR,Healthcare,Chicago,95042
+18,Bachelor,Software Engineer,Healthcare,New York,81389
+19,Master,Manager,Healthcare,Austin,98925
+17,Bachelor,Software Engineer,Education,Seattle,68075
+13,High School,HR,Retail,Austin,99022
+14,Bachelor,Manager,Retail,Chicago,89179
+30,High School,Marketing,Finance,Seattle,119754
+0,High School,HR,Retail,Austin,58624
+2,Bachelor,Marketing,Retail,Chicago,63350
+15,Master,Data Scientist,Healthcare,New York,89181
+22,PhD,HR,Healthcare,Chicago,96988
+10,Bachelor,Data Scientist,Finance,Seattle,70470
+11,High School,HR,Tech,San Francisco,81204
+9,High School,HR,Finance,New York,92236
+31,Bachelor,Data Scientist,Finance,Austin,115877
+15,Master,Manager,Education,Seattle,91072
+7,Master,Software Engineer,Education,San Francisco,57993
+37,High School,Marketing,Finance,Chicago,99603
+11,High School,HR,Finance,San Francisco,91344
+23,Master,Marketing,Finance,Seattle,77494
+27,PhD,Data Scientist,Retail,Seattle,84244
+7,Bachelor,Marketing,Education,San Francisco,77832
+27,High School,Data Scientist,Finance,Chicago,86094
+35,High School,Marketing,Healthcare,San Francisco,99871
+25,Master,Software Engineer,Healthcare,Seattle,95528
+7,Bachelor,Software Engineer,Retail,Seattle,86412
+27,Master,Software Engineer,Retail,Austin,94490
+27,Bachelor,Software Engineer,Tech,Austin,97126
+36,Bachelor,Software Engineer,Tech,New York,114469
+35,Bachelor,Software Engineer,Tech,Seattle,99630
+26,High School,Data Scientist,Retail,Austin,85828
+16,PhD,HR,Retail,San Francisco,103099
+8,Master,Marketing,Retail,Chicago,69883
+32,PhD,Software Engineer,Healthcare,San Francisco,106542
+19,Master,Data Scientist,Retail,Chicago,78950
+12,Bachelor,Data Scientist,Healthcare,Austin,78423
+27,High School,Data Scientist,Tech,New York,82535
+28,PhD,HR,Tech,San Francisco,99241
+12,High School,Marketing,Tech,San Francisco,81154
+34,Master,HR,Finance,San Francisco,116625
+5,High School,Manager,Finance,Chicago,80566
+17,High School,Data Scientist,Education,Austin,99191
+4,PhD,Manager,Education,San Francisco,59331
+24,Bachelor,Software Engineer,Education,San Francisco,96690
+1,High School,Software Engineer,Finance,New York,60683
+9,Bachelor,HR,Finance,New York,92846
+29,Master,Marketing,Education,Austin,88375
+4,High School,Manager,Education,Austin,58254
+32,PhD,Marketing,Retail,Seattle,116621
+0,Master,HR,Education,New York,50905
+17,Master,Software Engineer,Retail,Seattle,81382
+31,PhD,Marketing,Healthcare,Chicago,105541
+10,High School,Marketing,Finance,Seattle,84098
+20,High School,Software Engineer,Education,San Francisco,103709
+25,Master,Manager,Finance,Seattle,112175
+24,High School,Software Engineer,Finance,Austin,80837
+21,Bachelor,Marketing,Finance,Chicago,95989
+26,PhD,Manager,Healthcare,San Francisco,96627
+12,Bachelor,Manager,Tech,Seattle,63696
+32,High School,Software Engineer,Education,Chicago,101543
+33,Master,Marketing,Tech,Chicago,102115
+34,PhD,HR,Tech,San Francisco,92466
+0,High School,Marketing,Tech,Seattle,70771
+20,High School,Data Scientist,Finance,Chicago,88350
+5,Master,HR,Retail,Chicago,47875
+27,Master,Manager,Finance,New York,113530
+16,Bachelor,HR,Finance,Chicago,84746
+4,PhD,Manager,Tech,New York,68886
+30,PhD,Manager,Finance,Seattle,117651
+4,Master,HR,Tech,Seattle,53833
+37,Bachelor,Manager,Retail,Seattle,97393
+2,PhD,Manager,Education,Austin,73573
+22,Master,Data Scientist,Tech,Seattle,104371
+36,High School,Marketing,Retail,Chicago,105826
+36,PhD,Marketing,Education,San Francisco,128420
+9,Bachelor,Data Scientist,Healthcare,New York,75424
+9,Bachelor,HR,Tech,Austin,86867
+18,Bachelor,Software Engineer,Tech,Seattle,88199
+16,High School,Software Engineer,Healthcare,Seattle,89868
+20,PhD,Software Engineer,Healthcare,San Francisco,78792
+13,PhD,Data Scientist,Tech,San Francisco,80097
+8,High School,Data Scientist,Healthcare,Austin,88405
+0,PhD,Manager,Finance,New York,72696
+12,High School,Software Engineer,Education,Seattle,73989
+3,High School,HR,Education,Austin,73431
+0,High School,HR,Education,Chicago,49290
+39,Bachelor,Software Engineer,Finance,Chicago,136867
+31,PhD,Software Engineer,Healthcare,Austin,100842
+33,High School,Software Engineer,Retail,Seattle,114441
+27,PhD,Data Scientist,Healthcare,Austin,94445
+30,Bachelor,Data Scientist,Tech,Seattle,95762
+7,High School,Data Scientist,Education,San Francisco,80633
+38,Master,Marketing,Healthcare,Austin,124052
+25,Bachelor,HR,Retail,Seattle,97453
+33,Master,HR,Tech,Austin,106630
+2,PhD,Manager,Finance,Austin,74086
+11,PhD,Data Scientist,Finance,Seattle,61133
+0,Bachelor,Marketing,Retail,Seattle,57304
+4,PhD,Marketing,Tech,New York,78284
+29,Master,HR,Education,Austin,90508
+29,High School,Data Scientist,Healthcare,Chicago,110905
+16,High School,Manager,Tech,Austin,100386
+22,High School,Data Scientist,Finance,Austin,98373
+14,Bachelor,Software Engineer,Retail,Seattle,81827
+36,PhD,Data Scientist,Retail,Austin,127040
+20,Master,Software Engineer,Healthcare,Austin,83007
+13,PhD,Software Engineer,Retail,Chicago,77657
+1,PhD,Manager,Retail,Seattle,73657
+10,PhD,HR,Tech,Austin,90315
+38,High School,Data Scientist,Education,San Francisco,132932
+37,Master,Software Engineer,Healthcare,New York,116664
+33,Master,Data Scientist,Tech,Chicago,103914
+37,PhD,HR,Education,Austin,109827
+33,High School,HR,Tech,San Francisco,90446
+17,High School,Marketing,Tech,Austin,80193
+29,Master,HR,Retail,Austin,110741
+14,High School,Manager,Education,Seattle,91254
+26,High School,Software Engineer,Healthcare,Seattle,94540
+33,High School,Marketing,Healthcare,Seattle,96219
+37,Bachelor,Manager,Education,San Francisco,120581
+32,PhD,Data Scientist,Retail,Austin,99350
+23,Master,Software Engineer,Finance,New York,110858
+14,Master,HR,Tech,Chicago,93021
+29,Bachelor,Software Engineer,Retail,Seattle,111869
+16,PhD,Data Scientist,Education,Seattle,95728
+4,Master,Marketing,Tech,Austin,63576
+28,High School,Marketing,Healthcare,Austin,111001
+3,Master,Marketing,Finance,San Francisco,62348
+9,High School,HR,Healthcare,San Francisco,53890
+16,Bachelor,Manager,Education,Seattle,85999
+9,High School,Manager,Tech,Austin,65069
+16,Master,Software Engineer,Education,New York,77029
+19,Master,HR,Tech,Chicago,90990
+23,Master,Marketing,Retail,Austin,109828
+4,Bachelor,Marketing,Finance,Austin,51867
+33,Bachelor,Data Scientist,Retail,San Francisco,104784
+5,PhD,Data Scientist,Retail,Chicago,81479
+1,Master,Marketing,Education,Seattle,50621
+12,High School,Marketing,Finance,Austin,59539
+10,Bachelor,HR,Tech,Seattle,80488
+22,Master,Manager,Tech,Austin,90027
+15,Master,Data Scientist,Healthcare,Seattle,71193
+30,Bachelor,Manager,Tech,Chicago,93921
+10,PhD,HR,Education,San Francisco,65310
+15,Bachelor,Marketing,Retail,Chicago,93408
+7,Bachelor,Manager,Retail,New York,54886
+3,High School,Marketing,Retail,San Francisco,76763
+39,High School,Marketing,Finance,Chicago,126912
+3,PhD,Software Engineer,Tech,New York,61803
+24,Master,Manager,Education,Austin,88242
+2,Bachelor,Manager,Finance,Austin,51947
+31,PhD,Marketing,Healthcare,Seattle,92430
+2,High School,HR,Education,San Francisco,81170
+26,Bachelor,Software Engineer,Education,Austin,79507
+28,Master,Marketing,Education,San Francisco,83436
+31,High School,Data Scientist,Retail,Austin,113651
+18,High School,Data Scientist,Education,Seattle,78618
+20,High School,Software Engineer,Tech,Chicago,78750
+4,PhD,HR,Education,Seattle,62122
+17,Master,Marketing,Retail,New York,72854
+27,Bachelor,Manager,Education,Austin,111479
+21,PhD,Software Engineer,Healthcare,New York,92400
+20,PhD,HR,Healthcare,New York,83840
+5,PhD,Manager,Retail,San Francisco,84667
+0,High School,Data Scientist,Tech,Austin,45037
+4,Master,Data Scientist,Tech,New York,74633
+11,PhD,Manager,Finance,Chicago,80995
+25,Bachelor,Software Engineer,Retail,New York,93348
+33,Master,Data Scientist,Education,Chicago,125983
+13,Bachelor,Marketing,Retail,San Francisco,67337
+25,Master,Manager,Finance,New York,111569
+26,Bachelor,Manager,Retail,Seattle,86370
+8,High School,Data Scientist,Retail,San Francisco,58411
+25,PhD,Software Engineer,Finance,Chicago,116633
+21,Bachelor,Marketing,Tech,San Francisco,101999
+29,Master,Software Engineer,Education,New York,113725
+16,PhD,HR,Finance,Austin,64692
+25,PhD,HR,Healthcare,Austin,106426
+35,Master,Data Scientist,Tech,Chicago,126746
+0,Bachelor,Data Scientist,Healthcare,Chicago,79164
+7,High School,Data Scientist,Tech,Austin,58948
+34,High School,HR,Education,Chicago,101073
+14,Bachelor,Software Engineer,Education,San Francisco,96414
+21,PhD,Software Engineer,Retail,Seattle,76709
+13,PhD,Data Scientist,Healthcare,Seattle,66033
+25,PhD,Marketing,Tech,San Francisco,98561
+27,PhD,Software Engineer,Education,Seattle,87711
+22,Bachelor,HR,Finance,New York,82927
+13,PhD,Manager,Education,San Francisco,71427
+23,Master,Manager,Finance,Chicago,99094
+1,PhD,Manager,Tech,San Francisco,50816
+25,High School,Marketing,Education,Austin,89677
+13,PhD,Data Scientist,Education,Chicago,70346
+6,Bachelor,HR,Tech,Austin,56933
+2,High School,Marketing,Education,Chicago,81244
+22,Bachelor,HR,Finance,Seattle,75080
+17,Bachelor,HR,Education,San Francisco,71589
+37,High School,Data Scientist,Healthcare,New York,121623
+34,Bachelor,Manager,Retail,Chicago,98797
+14,Bachelor,Data Scientist,Finance,Chicago,69346
+24,PhD,Marketing,Healthcare,Austin,95878
+36,Master,Marketing,Tech,Seattle,127672
+27,Bachelor,Marketing,Finance,Austin,98153
+9,Bachelor,Data Scientist,Retail,Austin,79640
+38,Bachelor,HR,Retail,Seattle,98184
+16,PhD,HR,Tech,New York,98493
+38,Master,Software Engineer,Tech,Austin,121846
+21,High School,Marketing,Finance,Austin,93695
+25,PhD,HR,Education,Chicago,83106
+24,PhD,Software Engineer,Tech,Seattle,79956
+16,Master,HR,Education,San Francisco,80555
+12,Master,Marketing,Healthcare,New York,82849
+19,PhD,Manager,Retail,New York,87190
+24,High School,Marketing,Education,Seattle,102347
+3,PhD,Data Scientist,Retail,Chicago,77689
+9,Master,HR,Education,Chicago,91808
+2,High School,HR,Healthcare,Seattle,68785
+17,Master,Data Scientist,Tech,Chicago,98198
+35,High School,Data Scientist,Healthcare,New York,108466
+21,Bachelor,Manager,Tech,New York,102597
+33,Master,HR,Tech,San Francisco,105382
+7,Master,HR,Retail,Seattle,55175
+39,PhD,Manager,Healthcare,Austin,111509
+18,Master,Software Engineer,Education,Austin,94843
+36,Master,Manager,Healthcare,San Francisco,123793
+5,Bachelor,Marketing,Retail,San Francisco,87016
+25,Master,HR,Tech,Chicago,116371
+33,Bachelor,Data Scientist,Retail,San Francisco,107357
+5,Bachelor,Marketing,Finance,San Francisco,67127
+36,Bachelor,HR,Finance,Austin,112565
+32,Bachelor,Manager,Education,Chicago,114025
+21,High School,Marketing,Retail,San Francisco,99332
+20,PhD,HR,Education,San Francisco,79782
+5,High School,Software Engineer,Education,Chicago,86150
+5,Master,Software Engineer,Finance,Seattle,69866
+3,High School,Data Scientist,Education,Chicago,73057
+29,High School,HR,Finance,Austin,89298
+10,Master,Software Engineer,Tech,Seattle,64627
+29,Master,Manager,Retail,New York,95966
+30,Master,HR,Education,Chicago,97720
+23,High School,Manager,Finance,Austin,111792
+8,High School,Manager,Healthcare,Seattle,58559
+2,Master,Software Engineer,Education,Chicago,62158
+30,PhD,HR,Tech,San Francisco,115916
+39,PhD,Marketing,Tech,Chicago,120557
+36,Bachelor,Software Engineer,Healthcare,New York,129892
+35,Master,Software Engineer,Finance,Chicago,104206
+23,Bachelor,HR,Education,Seattle,86570
+30,PhD,HR,Finance,Seattle,85924
+5,Bachelor,Manager,Tech,Chicago,73978
+1,Master,HR,Finance,Seattle,47006
+19,Master,Manager,Tech,San Francisco,103663
+27,Master,Software Engineer,Finance,Chicago,105104
+10,High School,Data Scientist,Healthcare,San Francisco,70310
+3,Bachelor,Marketing,Retail,San Francisco,52726
+14,PhD,Software Engineer,Healthcare,Austin,72781
+5,PhD,HR,Healthcare,Chicago,53015
+29,PhD,Marketing,Retail,Seattle,119633
+37,High School,Data Scientist,Retail,San Francisco,112472
+1,High School,Data Scientist,Education,Austin,73592
+14,Master,Manager,Education,Chicago,72410
+10,PhD,Marketing,Healthcare,Chicago,74522
+7,High School,Manager,Healthcare,New York,59595
+25,Master,Software Engineer,Tech,New York,100547
+4,PhD,Marketing,Tech,San Francisco,66470
+5,Bachelor,Software Engineer,Education,New York,56031
+25,Master,Manager,Education,San Francisco,114538
+3,High School,Marketing,Tech,Seattle,66903
+18,High School,Manager,Tech,San Francisco,96122
+19,Master,Marketing,Finance,New York,85440
+32,Master,Manager,Finance,Seattle,117831
+19,High School,Data Scientist,Tech,New York,79779
+11,Bachelor,Manager,Finance,San Francisco,94720
+0,PhD,Data Scientist,Retail,Austin,46477
+25,Bachelor,Manager,Education,Chicago,94900
+13,Master,Marketing,Education,New York,65970
+37,Bachelor,Marketing,Tech,San Francisco,97562
+36,High School,Marketing,Healthcare,Seattle,113880
+10,Master,HR,Tech,New York,89581
+35,PhD,Software Engineer,Finance,New York,106808
+12,High School,Marketing,Healthcare,Chicago,84027
+2,High School,Data Scientist,Finance,San Francisco,73720
+32,PhD,Marketing,Retail,Austin,123081
+5,PhD,HR,Finance,Seattle,57206
+9,Bachelor,Data Scientist,Retail,San Francisco,63337
+4,Master,HR,Retail,Seattle,84599
+22,PhD,Data Scientist,Finance,New York,109824
+9,PhD,Manager,Finance,Chicago,86573
+1,Master,Software Engineer,Retail,Chicago,73588
+12,PhD,Software Engineer,Healthcare,Austin,86112
+39,PhD,HR,Retail,Chicago,124799
+1,Bachelor,Software Engineer,Education,New York,75957
+19,High School,HR,Retail,Austin,98563
+0,High School,HR,Healthcare,San Francisco,43917
+36,High School,HR,Education,Chicago,96936
+8,High School,Software Engineer,Tech,Austin,88630
+16,PhD,HR,Tech,New York,78506
+8,Master,Software Engineer,Healthcare,Seattle,80805
+10,Master,HR,Retail,Seattle,69318
+14,Bachelor,Marketing,Finance,New York,87026
+23,Bachelor,HR,Healthcare,New York,102172
+37,PhD,Data Scientist,Education,Seattle,133917
+34,Master,HR,Education,Austin,118281
+29,Master,Manager,Tech,Seattle,111591
+30,High School,HR,Education,New York,123328
+4,PhD,Data Scientist,Healthcare,Chicago,64610
+13,PhD,Data Scientist,Education,San Francisco,60579
+10,High School,Software Engineer,Healthcare,Chicago,84850
+8,PhD,Marketing,Finance,Chicago,72590
+33,PhD,HR,Tech,New York,120451
+11,Bachelor,Software Engineer,Education,Seattle,71827
+34,Master,Marketing,Healthcare,Austin,103755
+34,PhD,HR,Retail,Chicago,98235
+0,Bachelor,Manager,Tech,Seattle,57197
+39,Master,HR,Finance,Austin,119973
+21,High School,Data Scientist,Healthcare,Chicago,73531
+28,Bachelor,Data Scientist,Finance,Austin,96287
+7,Bachelor,Manager,Finance,Seattle,89179
+10,Master,Software Engineer,Education,San Francisco,87230
+36,High School,Marketing,Education,Seattle,113037
+13,Bachelor,HR,Healthcare,New York,86552
+29,PhD,Data Scientist,Retail,Austin,86840
+34,PhD,Software Engineer,Healthcare,San Francisco,92141
+20,PhD,Manager,Retail,Austin,95425
+36,High School,Data Scientist,Finance,Austin,113281
+4,Bachelor,Manager,Tech,Chicago,66425
+18,PhD,HR,Healthcare,New York,101806
+13,High School,Marketing,Healthcare,Austin,91613
+25,PhD,Data Scientist,Retail,Seattle,81770
+3,Master,Data Scientist,Finance,Seattle,49183
+24,Bachelor,HR,Finance,Chicago,115884
+24,Bachelor,Software Engineer,Retail,New York,105809
+17,High School,Marketing,Finance,New York,100052
+39,High School,Data Scientist,Education,Seattle,102286
+7,Bachelor,Marketing,Tech,San Francisco,72150
+38,PhD,Data Scientist,Healthcare,Chicago,125706
+39,PhD,Marketing,Tech,Chicago,107690
+13,Master,Manager,Healthcare,Seattle,97696
+31,PhD,Data Scientist,Education,Seattle,125949
+37,High School,Marketing,Finance,San Francisco,135161
+32,High School,Software Engineer,Retail,San Francisco,117709
+22,PhD,Manager,Education,New York,87892
+14,High School,Manager,Tech,Chicago,70643
+32,Bachelor,Software Engineer,Retail,Chicago,97943
+24,Bachelor,Marketing,Finance,Seattle,97042
+16,PhD,HR,Education,New York,70869
+32,Bachelor,Software Engineer,Retail,Chicago,108918
+1,Bachelor,Marketing,Education,New York,69879
+13,Master,Software Engineer,Education,New York,84774
+39,Master,Software Engineer,Finance,Seattle,116196
+39,Bachelor,Data Scientist,Healthcare,New York,101462
+38,PhD,Marketing,Retail,San Francisco,110851
+5,Master,HR,Finance,San Francisco,52796
+5,High School,Data Scientist,Education,Austin,62245
+2,High School,Software Engineer,Finance,Seattle,48730
+6,High School,Software Engineer,Healthcare,Austin,62921
+7,PhD,Software Engineer,Retail,San Francisco,83394
+14,Bachelor,Marketing,Healthcare,Austin,66602
+28,High School,Marketing,Tech,Seattle,99575
+32,PhD,Data Scientist,Retail,Seattle,107023
+29,Master,HR,Healthcare,New York,99497
+38,Bachelor,Data Scientist,Education,Chicago,114750
+26,Master,Manager,Retail,New York,101837
+35,PhD,Software Engineer,Retail,Seattle,107497
+28,High School,Software Engineer,Finance,San Francisco,121439
+37,High School,Software Engineer,Education,San Francisco,118567
+32,PhD,Data Scientist,Tech,New York,108923
+36,High School,Data Scientist,Healthcare,Seattle,102876
+26,Bachelor,Software Engineer,Finance,San Francisco,81887
+32,PhD,Data Scientist,Healthcare,Seattle,124854
+3,Master,Marketing,Tech,San Francisco,81448
+21,PhD,Marketing,Tech,Seattle,74341
+1,Bachelor,Data Scientist,Retail,Austin,70256
+9,Bachelor,Software Engineer,Tech,Seattle,59540
+4,PhD,Data Scientist,Healthcare,Seattle,56304
+9,PhD,Data Scientist,Education,New York,83841
+32,High School,Data Scientist,Education,Austin,92758
+37,Bachelor,Manager,Retail,Chicago,112510
+12,PhD,Marketing,Healthcare,New York,89658
+30,PhD,HR,Healthcare,Chicago,122782
+35,Bachelor,HR,Tech,San Francisco,93875
+23,PhD,Manager,Healthcare,Chicago,108449
+14,High School,Data Scientist,Finance,Seattle,83092
+28,Bachelor,Manager,Tech,Chicago,82490
+7,High School,Manager,Finance,New York,54229
+4,High School,Software Engineer,Retail,New York,51974
+28,High School,Marketing,Education,Chicago,101680
+3,High School,HR,Retail,New York,62824
+11,Bachelor,Data Scientist,Education,New York,87834
+1,High School,HR,Retail,Chicago,62898
+26,High School,HR,Healthcare,Austin,113650
+30,PhD,Marketing,Finance,Austin,106292
+35,Bachelor,HR,Education,San Francisco,128255
+35,Bachelor,HR,Tech,New York,130853
+25,Master,Manager,Finance,Chicago,80659
+26,Bachelor,Marketing,Tech,New York,111626
+4,Bachelor,Software Engineer,Finance,Seattle,75351
+19,Master,Data Scientist,Finance,New York,105798
+10,Bachelor,HR,Retail,New York,72065
+9,Bachelor,Data Scientist,Education,Austin,75138
+39,Bachelor,Software Engineer,Education,Chicago,99573
+37,Bachelor,Data Scientist,Finance,New York,114271
+5,Master,Software Engineer,Healthcare,Austin,82961
+7,Bachelor,Manager,Healthcare,San Francisco,79820
+22,Bachelor,HR,Tech,Austin,77340
+25,Master,Software Engineer,Tech,Austin,112424
+11,PhD,Data Scientist,Retail,Austin,72684
+25,High School,HR,Finance,New York,80080
+12,PhD,Manager,Tech,New York,86967
+39,Master,HR,Tech,San Francisco,100659
+17,High School,Software Engineer,Finance,Seattle,79400
+24,Master,Manager,Retail,Seattle,87440
+32,Master,Data Scientist,Tech,Seattle,102678
+39,Bachelor,Manager,Retail,San Francisco,110521
+11,High School,Manager,Education,Seattle,63272
+35,Bachelor,Marketing,Retail,Seattle,94127
+3,High School,Manager,Healthcare,Austin,52719
+4,Master,Manager,Healthcare,New York,69464
+36,Master,HR,Retail,New York,124232
+7,PhD,Data Scientist,Healthcare,Austin,58988
+27,High School,HR,Education,Austin,115449
+30,Bachelor,HR,Finance,Austin,124932
+8,PhD,Software Engineer,Healthcare,New York,70981
+28,PhD,HR,Healthcare,Seattle,82901
